@@ -22,7 +22,7 @@ import (
 	"math"
 
 	"github.com/hajimehoshi/ebiten/v2"
-	"github.com/hajimehoshi/ebiten/v2/examples/resources/images"
+	"github.com/shvyac/golang_test/images"
 )
 
 const (
